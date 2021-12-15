@@ -15,6 +15,9 @@
 - Game programming
 - App development
 
+### Why I Have Hope
+> For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. (John 3:16 ESV)
+
 <!---
 zaiisao/zaiisao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
