@@ -1,17 +1,17 @@
 ### Experience
 #### Education
-- MS Media Engineering, Sogang University (2020-present)
+- PhD, Sogang University (2023-present)
+- MS Media Engineering, Sogang University (2020-2023)
 - BS Computer Science, Stony Brook University (2016-2020)
 
 #### Work
-- Game Developer, Dubit (2021-present)
+- Part-time Game Developer, Dubit (2021-present)
 - Software Engineer Intern, Roblox (2019)
 - Software Engineer Intern, DribbleUp (2017)
 
 ### Focus fields
-- User interface engineering
 - AI & machine learning
-- Virtual/artificial reality
+- Music information retrieval
 - Game programming
 - App development
 
