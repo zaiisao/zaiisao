@@ -15,8 +15,10 @@
 - Game programming
 - App development
 
-### Why I Have Hope
+### Jesus Christ gives us hope!
 > For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. (John 3:16 ESV)
+
+> But God shows his love for us in that while we were still sinners, Christ died for us. (Romans 5:8 ESV)
 
 <!---
 zaiisao/zaiisao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
