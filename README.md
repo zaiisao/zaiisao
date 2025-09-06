@@ -5,6 +5,7 @@
 - BS Computer Science, Stony Brook University (2016-2020)
 
 #### Work
+- Tech Lead, Anchored (2025-present)
 - Part-time Game Developer, Dubit (2021-2024)
 - Software Engineer Intern, Roblox (2019)
 - Software Engineer Intern, DribbleUp (2017)
