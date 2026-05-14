@@ -5,8 +5,8 @@
 - BS Computer Science, Stony Brook University (2016-2020)
 
 #### Work
-- AI Research Engineer, Paralov (2025-present)
 - Tech Advisor, Anchored (2025-present)
+- AI Research Engineer, Paralov (2025-2026)
 - Part-time Game Developer, Dubit (2021-2024)
 - Software Engineer Intern, Roblox (2019)
 - Software Engineer Intern, DribbleUp (2017)
