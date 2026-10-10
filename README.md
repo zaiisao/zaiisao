@@ -1,12 +1,12 @@
 ### Experience
 #### Education
 - PhD, Sogang University (2023-present)
+  - Visiting Researcher, National Taiwan University (2026-present)
 - MS Media Engineering, Sogang University (2020-2023)
 - BS Computer Science, Stony Brook University (2016-2020)
 
 #### Work
-- Tech Advisor, Anchored (2025-present)
-- AI Research Engineer, Paralov (2025-2026)
+- AI Research Engineer, Paralov (Contract, 2025-2026)
 - Part-time Game Developer, Dubit (2021-2024)
 - Software Engineer Intern, Roblox (2019)
 - Software Engineer Intern, DribbleUp (2017)
